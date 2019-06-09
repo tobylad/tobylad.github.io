@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.591ce9ed.chunk.css",
-    "main.js": "/static/js/main.9c33f003.chunk.js",
-    "main.js.map": "/static/js/main.9c33f003.chunk.js.map",
+    "main.css": "/static/css/main.0169c036.chunk.css",
+    "main.js": "/static/js/main.9ab1bfac.chunk.js",
+    "main.js.map": "/static/js/main.9ab1bfac.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.479fc036.chunk.js": "/static/js/2.479fc036.chunk.js",
-    "static/js/2.479fc036.chunk.js.map": "/static/js/2.479fc036.chunk.js.map",
+    "static/js/2.10e9addd.chunk.js": "/static/js/2.10e9addd.chunk.js",
+    "static/js/2.10e9addd.chunk.js.map": "/static/js/2.10e9addd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c092b24d211c4e5d49171e40eb525d6a.js": "/precache-manifest.c092b24d211c4e5d49171e40eb525d6a.js",
+    "precache-manifest.e0717fff27ae257b1cac42ced8bd49d1.js": "/precache-manifest.e0717fff27ae257b1cac42ced8bd49d1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.591ce9ed.chunk.css.map": "/static/css/main.591ce9ed.chunk.css.map",
-    "static/media/exclamation-triangle-solid.svg": "/static/media/exclamation-triangle-solid.96968449.svg",
-    "static/media/globe-americas-solid.svg": "/static/media/globe-americas-solid.dcb8f3b4.svg",
-    "static/media/laptop-code-solid.svg": "/static/media/laptop-code-solid.391e3c34.svg"
+    "static/css/main.0169c036.chunk.css.map": "/static/css/main.0169c036.chunk.css.map",
+    "static/media/laptop-code-solid-white.svg": "/static/media/laptop-code-solid-white.7668204b.svg",
+    "static/media/laptop-code-solid.svg": "/static/media/laptop-code-solid.391e3c34.svg",
+    "static/media/project-diagram-solid-white.svg": "/static/media/project-diagram-solid-white.6c334797.svg",
+    "static/media/project-diagram-solid.svg": "/static/media/project-diagram-solid.abde2fe9.svg",
+    "static/media/user-tie-solid-white.svg": "/static/media/user-tie-solid-white.10f7871a.svg",
+    "static/media/user-tie-solid.svg": "/static/media/user-tie-solid.48df1a32.svg"
   }
 }
