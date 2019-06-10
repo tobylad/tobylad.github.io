@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4802131dfabfd59ed903c67f9f9a735",
+    "revision": "9f3f6b9b91d0803977f2ddad97325f09",
     "url": "/index.html"
   },
   {
-    "revision": "ce77eb51e30bcb6ca494",
-    "url": "/static/css/main.824c24b5.chunk.css"
+    "revision": "accfc1274615959612e7",
+    "url": "/static/css/main.bf8e4fc3.chunk.css"
   },
   {
-    "revision": "edf26db9c6fc8ca6354e",
-    "url": "/static/js/2.253d07d0.chunk.js"
+    "revision": "81ffee3837359c7e7804",
+    "url": "/static/js/2.5838a548.chunk.js"
   },
   {
-    "revision": "ce77eb51e30bcb6ca494",
-    "url": "/static/js/main.b9ec2423.chunk.js"
+    "revision": "accfc1274615959612e7",
+    "url": "/static/js/main.0061761d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,8 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bootstrap-brands.f2659ae5.svg"
   },
   {
+    "revision": "7b9860373bba85dc7082acbe371b6ba6",
+    "url": "/static/media/caret-down-solid.7b986037.svg"
+  },
+  {
+    "revision": "7e2c668cd1056f0b60937573655cf40c",
+    "url": "/static/media/caret-up-solid.7e2c668c.svg"
+  },
+  {
     "revision": "373a1fd6f4451ade2b62fdf1f0637463",
     "url": "/static/media/css3-alt-brands.373a1fd6.svg"
+  },
+  {
+    "revision": "82189696539164bc0b0e271a3bcac397",
+    "url": "/static/media/envelope-solid.82189696.svg"
   },
   {
     "revision": "f24daab38da40ef39dd10ff98c9203c1",
@@ -34,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8abb28f495bd046e30fbf4cba3a62c19",
     "url": "/static/media/github-brands.8abb28f4.svg"
+  },
+  {
+    "revision": "57bc0d1126fb165a7837cbd60f5b2b1c",
+    "url": "/static/media/github-square-brands.57bc0d11.svg"
   },
   {
     "revision": "4579bfe3d8615007248b89028fe055c2",
@@ -56,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/laravel-brands.eff8eb1c.svg"
   },
   {
+    "revision": "d9049f461eb3dd661b7f77c6e56e7593",
+    "url": "/static/media/linkedin-brands.d9049f46.svg"
+  },
+  {
     "revision": "6c334797722fc71bdd3d8b65a328a096",
     "url": "/static/media/project-diagram-solid-white.6c334797.svg"
   },
@@ -66,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6c671d10bc37cd67f22b7811996b9af0",
     "url": "/static/media/react-brands.6c671d10.svg"
+  },
+  {
+    "revision": "a1223de504180a12574a17a1f30c5a08",
+    "url": "/static/media/twitter-square-brands.a1223de5.svg"
   },
   {
     "revision": "10f7871a32f21017d50f7c612712d4b3",
