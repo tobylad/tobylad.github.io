@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f036cf13.chunk.css",
-    "main.js": "/static/js/main.0279e982.chunk.js",
-    "main.js.map": "/static/js/main.0279e982.chunk.js.map",
+    "main.js": "/static/js/main.f6c7dc1d.chunk.js",
+    "main.js.map": "/static/js/main.f6c7dc1d.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.5838a548.chunk.js": "/static/js/2.5838a548.chunk.js",
     "static/js/2.5838a548.chunk.js.map": "/static/js/2.5838a548.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1e93940a7934d5ffd93dc406ff1754e6.js": "/precache-manifest.1e93940a7934d5ffd93dc406ff1754e6.js",
+    "precache-manifest.84f058bb0a598acf627b32c9330e13d8.js": "/precache-manifest.84f058bb0a598acf627b32c9330e13d8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f036cf13.chunk.css.map": "/static/css/main.f036cf13.chunk.css.map",
     "static/media/bootstrap-brands.svg": "/static/media/bootstrap-brands.f2659ae5.svg",
